@@ -1,4 +1,0 @@
-CREATE TABLE IF NOT EXISTS 分局 (
-    分局名稱 VARCHAR(255),
-    PRIMARY KEY (分局名稱)
-);
