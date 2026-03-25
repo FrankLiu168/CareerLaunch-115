@@ -1,5 +1,6 @@
 # 115年數據分析職訓班
-
+## 製作人：Ted
+[進入 Ted 學習履歷](https://frankliu168.github.io/profile/)
 ---
 
 ## 📥 檔案下載
