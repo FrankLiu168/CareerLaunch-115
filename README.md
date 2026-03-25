@@ -37,7 +37,7 @@
 
 ---
 # 模型預覽
-[模型預覽](images/導覽頁.png)
+![模型預覽](images/模型.png)
 
 # 📊 報表預覽
 ## 1. 首頁與導覽 (Home & Navigation)
